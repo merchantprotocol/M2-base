@@ -1,0 +1,21 @@
+{
+    "name": "merchantprotocol/M2-base",
+    "description": "Base module for Merchant Protocol extensions",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "Mage Plugins Commercial (https://mageplugins.net/commercial-license-agreement/)"
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "magento/framework": ">=100.0.0"
+    },
+    "autoload": {
+        "files": [ 
+            "registration.php"
+        ],
+        "psr-4": {
+            "MP\\Base\\": ""
+        }
+    }
+}

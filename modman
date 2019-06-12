@@ -1,0 +1,8 @@
+app/code/MP/Base/etc/module.xml app/code/MP/Base/etc/module.xml
+app/code/MP/Base/etc/acl.xml app/code/MP/Base/etc/acl.xml
+app/code/MP/Base/etc/adminhtml/system.xml app/code/MP/Base/etc/adminhtml/system.xml
+app/code/MP/Base/etc/adminhtml/menu.xml app/code/MP/Base/etc/adminhtml/menu.xml
+app/code/MP/Base/view/adminhtml/web/css/admin.less app/code/MP/Base/view/adminhtml/web/css/admin.less
+app/code/MP/Base/view/adminhtml/layout/default.xml app/code/MP/Base/view/adminhtml/layout/default.xml
+app/code/MP/Base/registration.php app/code/MP/Base/registration.php
+app/code/MP/Base/composer.json app/code/MP/Base/composer.json
